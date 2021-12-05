@@ -7,3 +7,6 @@
 - chapter6: 대표적인 이산형 확률분포
 - chapter7: 연속형 확률변수
 - chapter8: 대표적인 연속형 확률변수
+- chapter9: 독립동일분포
+- chapter10: 통계적 추정
+- chapter11: 통계적 가설검정
