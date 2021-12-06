@@ -10,3 +10,4 @@
 - chapter9: 독립동일분포
 - chapter10: 통계적 추정
 - chapter11: 통계적 가설검정
+- chapter12: 회귀분석
